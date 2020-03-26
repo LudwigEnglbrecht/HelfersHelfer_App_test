@@ -8,5 +8,5 @@ The following steps are necessary to build the Android App on Ubuntu:
 
 - git clone https://github.com/LudwigEnglbrecht/HelfersHelfer_App_test/
 - cd HelfersHelfer_App_test/
-- chmod 777 transform.sh
+- chmod +x transform.sh
 - ./transform.sh
