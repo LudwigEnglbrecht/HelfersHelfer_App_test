@@ -10,7 +10,7 @@ The following steps are necessary to build the Android App on Ubuntu:
 
 
 ```bash
-git clone https://github.com/LudwigEnglbrecht/HelfersHelfer_App_test/
+git clone --recurse-submodules https://github.com/LudwigEnglbrecht/HelfersHelfer_App_test/
 cd HelfersHelfer_App_test/
 chmod +x transform.sh
 ./transform.sh
